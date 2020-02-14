@@ -4,13 +4,19 @@
   
     
     <entry>
-      <title>MOCEHU&#39;s Blog</title>
+      <title>引言</title>
       <link href="/2020/02/10/hello-world/"/>
       <url>/2020/02/10/hello-world/</url>
       
         <content type="html"><![CDATA[<p>欢迎各位来到MOCEHU的博客(Coding)</p><p>此网站基于部署在Coding上的Hexo博客程序</p><p>网址为<a href="https://code.mocehu.top">https://code.mocehu.top</a></p><p><img src="http://q5mysw3mm.bkt.clouddn.com/avatar.jpg" alt="七牛云图床测试"></p><h2 id="关于"><a href="#关于" class="headerlink" title="关于"></a>关于</h2><p>这个网站作为备用站主要用来发布我的新作品(APP)，不排除主站GG后搬迁到这来</p><p>主站地址<a href="https://www.mocehu.top" target="_blank" rel="noopener">https://www.mocehu.top</a> 备案中，可能无法正常访问</p>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> home </tag>
+            
+        </tags>
       
     </entry>
     
