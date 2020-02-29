@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://code.mocehu.top/"/>
-  <updated>2020-02-15T12:54:07.166Z</updated>
+  <updated>2020-02-29T03:05:26.347Z</updated>
   <id>https://code.mocehu.top/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://code.mocehu.top/2020/02/15/page/"/>
     <id>https://code.mocehu.top/2020/02/15/page/</id>
     <published>2020-02-15T12:37:29.000Z</published>
-    <updated>2020-02-15T12:54:07.166Z</updated>
+    <updated>2020-02-29T03:05:26.347Z</updated>
     
     <content type="html"><![CDATA[<ol><li><p><strong>He</strong>     已停更</p><p><a href="https://www.lanzous.com/i16a2va" target="_blank" rel="noopener">蓝奏云</a></p></li><li><p><strong>Playband</strong>      源码又双叒叕丢了….没事…..反正都是粘贴复制过来的</p><p><a href="https://www.coolapk.com/apk/228624" target="_blank" rel="noopener">酷安上架链接</a></p></li><li><p><strong>2019-nCoV监测</strong>      疫情过后停更</p><p><a href="https://www.lanzous.com/i8zzucf" target="_blank" rel="noopener">蓝奏云</a></p></li></ol>]]></content>
     
@@ -39,19 +39,21 @@
     </summary>
     
     
+      <category term="发布" scheme="https://code.mocehu.top/categories/%E5%8F%91%E5%B8%83/"/>
     
-      <category term="tags" scheme="https://code.mocehu.top/tags/tags/"/>
+    
+      <category term="作品" scheme="https://code.mocehu.top/tags/%E4%BD%9C%E5%93%81/"/>
     
   </entry>
   
   <entry>
-    <title>引言</title>
+    <title>序</title>
     <link href="https://code.mocehu.top/2020/02/10/hello-world/"/>
     <id>https://code.mocehu.top/2020/02/10/hello-world/</id>
     <published>2020-02-10T03:11:11.000Z</published>
-    <updated>2020-02-19T11:24:09.275Z</updated>
+    <updated>2020-02-29T03:03:09.763Z</updated>
     
-    <content type="html"><![CDATA[<p>欢迎各位来到MOCEHU的博客(Coding)</p><p>此网站基于部署在Coding上的Hexo博客程序</p><p>网址为<a href="https://code.mocehu.top">https://code.mocehu.top</a></p><p><img src="http://q5mysw3mm.bkt.clouddn.com/codingblog.jpg" alt="博客宣传图"></p><h2 id="补充"><a href="#补充" class="headerlink" title="补充"></a>补充</h2><p>这个网站作为备用站主要用来发布我的新作品(APP)，不排除主站GG后搬迁到这来</p><p>主站地址<a href="https://www.mocehu.top" target="_blank" rel="noopener">https://www.mocehu.top</a> 备案已完成，配套微信小程序也已开放，详情请进入主站了解</p>]]></content>
+    <content type="html"><![CDATA[<p>欢迎各位来到MOCEHU的博客(Coding)</p><p>此网站基于部署在Coding上的Hexo博客程序</p><p>网址为<a href="https://code.mocehu.top">https://code.mocehu.top</a></p><p><img src="http://q5mysw3mm.bkt.clouddn.com/codingblog.jpg" srcset="/img/loading.gif" alt="博客宣传图"></p><h2 id="补充"><a href="#补充" class="headerlink" title="补充"></a>补充</h2><p>这个网站作为备用站主要用来发布我的新作品(APP)，不排除主站GG后搬迁到这来</p><p>主站地址<a href="https://www.mocehu.top" target="_blank" rel="noopener">https://www.mocehu.top</a> 备案已完成，配套微信小程序也已开放，详情请进入主站了解</p>]]></content>
     
     <summary type="html">
     
@@ -66,8 +68,10 @@
     </summary>
     
     
+      <category term="图文" scheme="https://code.mocehu.top/categories/%E5%9B%BE%E6%96%87/"/>
     
-      <category term="home" scheme="https://code.mocehu.top/tags/home/"/>
+    
+      <category term="介绍" scheme="https://code.mocehu.top/tags/%E4%BB%8B%E7%BB%8D/"/>
     
   </entry>
   
