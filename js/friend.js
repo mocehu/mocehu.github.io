@@ -47,3 +47,22 @@ $(function () { //获取处理友链数据
         $('.links-content').append("</div>");
     })
 });
+
+{
+    "date": "2020.04.12",
+    "stopTime": "2020.04.12",
+    "src": "https://code.mocehu.top/img/avatar.png",
+    "name": "MOCEHU",
+    "desc": "主站",
+    "url": "https://mocehu.top",
+    "valid": 0
+    }
+    {
+    "date": "2020.04.12",
+    "stopTime": "2020.04.12",
+    "src": "https://cdn.jsdelivr.net/gh/yuluoqingcheng/testcnd/avatar.jpg",
+    "name": "雨落倾城",
+    "desc": "HPUI创始人",
+    "url": "https://yuluoqc.xyz",
+    "valid": 0
+    }
